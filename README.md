@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **veekesh0824@gmail.com**
 
-<h3 align="left">Connect with me: [Linked-In](https://www.linkedin.com/in/veekesh-singh-1a7855194/)</h3>
 <p align="left">
 </p>
 
