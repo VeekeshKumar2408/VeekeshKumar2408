@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring Framework**
 
-- 💬 Ask me about **Java, DBMS, Appian**
+- 💬 Ask me about **Java, DBMS, Spring boot**
 
 - 📫 How to reach me **veekesh0824@gmail.com**
 
