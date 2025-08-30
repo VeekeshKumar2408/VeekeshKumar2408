@@ -3,7 +3,7 @@
 </p>
 <h3 align="center">Software developer from India</h3>
 
-- 🔭 I’m currently working on the [**Bitcoin Trading Platform**](https://github.com/VeekeshKumar2408/Trading-Platform-API-Backend)
+- 🔭 I’m currently working on the [**Ride Sharing Platform**](https://github.com/VeekeshKumar2408/ride-sharing-application/tree/master)
 
 - 🌱 I’m currently learning **Spring Framework**
 
